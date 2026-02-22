@@ -33,3 +33,7 @@ $string['language'] = 'ቋንቋ';
 $string['next'] = 'ቀፃሊ';
 $string['previous'] = 'ዝሐለፈ';
 $string['reload'] = 'እንደገና ንምፅዓን';
+$string['login'] = 'እቶ';
+$string['signup'] = 'ተመዝገብ';
+$string['username'] = 'ስም ተጠቃሚ';
+$string['password'] = 'መሕለፊ ቃል';
