@@ -1,6 +1,6 @@
-# Moodle
+# Moodle_MIT
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hadgutikue11-Opensource/Moodle-Hadgu/main/public/pix/Logo.png" alt="MIT Logo" width="300">
+  <img src="public/pix/Logo.png" alt="MIT Logo" width="300">
 </p>
 
 [MIT Moodle Platform] is the World's Open Source Learning Platform, customized for Mekelle Institute of Technology (MIT).
@@ -45,3 +45,16 @@ Moodle is provided freely as open source software, under version 3 of the GNU Ge
 [10]: https://moodle.com/partners
 [11]: https://moodle.com/cloud
 [12]: https://moodledev.io/general/license
+
+
+---
+## Project Team
+The following students have contributed to this Moodle group project:
+
+1. **Hadgu Tikue** (@hadgutikue11-Opensource)
+2. **Alembrhan Gebremeskel** (@alembrhangebremeskel)
+3. **Hagos Fsha** (@mitur106810)
+4. **Tesfamarym G/marym** (@tesfomgg)
+
+**Instructor:** Asmelash Girmay (@agmesele)
+---
